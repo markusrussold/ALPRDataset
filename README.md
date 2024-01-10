@@ -13,7 +13,7 @@ A target folder shall be created as the central location for all files related t
 | File     | Description |
 | ------ | ----------- |
 | EuroPlate.ttf    | Font file as used by the Python script in order to write the license plate number onto the image. |
-| LicensePlateGenerator.py    | Python cript to generate the synthetic data. |
+| LicensePlateGenerator.py    | Python script to generate the synthetic data. |
 | eu_patch.png   | Image file for the EU patch applied onto the license plate images by the script. |
 | german_police_registration.jpg   | Image file for the German police registration patch applied onto the license plate images by the script. |
 
